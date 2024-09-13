@@ -1,3 +1,6 @@
+Project is only going to take up three pages , one is going to be Home Page , another one is going to be the description of the donation and the third one  is going to be making the actual payment process .
+=================================================================
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
